@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+#### Social
+- [LinkedIn](https://www.linkedin.com/in/thinkricardo)
+- [Medium](https://medium.com/@thinkricardo)
+- [Pluralsight](https://app.pluralsight.com/profile/rmlpp)
+
+#### Articles
+- [First-class citizens custom form components in Angular](https://link.medium.com/mkxENNu5Odb)
 <!--
 **thinkricardo/thinkricardo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
