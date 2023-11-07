@@ -6,6 +6,7 @@
 - [Pluralsight](https://app.pluralsight.com/profile/rmlpp)
 
 #### Articles
+- [Angular: Unsubscribing with a Smile](https://medium.com/gitconnected/angular-unsubscribing-with-a-smile-6927872bf6dc)
 - [First-class citizens custom form components in Angular](https://link.medium.com/mkxENNu5Odb)
 <!--
 **thinkricardo/thinkricardo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
