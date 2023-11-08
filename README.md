@@ -6,8 +6,8 @@
 - [Pluralsight](https://app.pluralsight.com/profile/rmlpp)
 
 #### Articles
-- [Angular: Unsubscribing with a Smile](https://medium.com/gitconnected/angular-unsubscribing-with-a-smile-6927872bf6dc)
-- [First-class citizens custom form components in Angular](https://link.medium.com/mkxENNu5Odb)
+- [Angular: Unsubscribing with a Smile](https://medium.com/gitconnected/angular-unsubscribing-with-a-smile-6927872bf6dc) - While the power of RxJS in Angular development is immense, the responsibility of unsubscribing gracefully should not be underestimated.
+- [First-class citizens custom form components in Angular](https://link.medium.com/mkxENNu5Odb) - Enable two-way binding with the ngModel directive in Angular for custom form components to create a seamless integration with data binding.
 <!--
 **thinkricardo/thinkricardo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
